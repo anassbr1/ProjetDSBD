@@ -4,6 +4,7 @@
 #Une série de question vous eront poser afin de détecter la maladie à travaers un ensemble de Symptômes.
 :-encoding(utf8).
 
+
 % Exemple d'utilisation
 diagnostics :-
     diagnostic(Maladie),
